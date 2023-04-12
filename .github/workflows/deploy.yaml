@@ -5,13 +5,13 @@ on:
 
 env:
   RG_NAME: "RG-AKS-Lab-10"
-  CLUSTER_NAME: "AKS-Lab-10"
+  CLUSTER_NAME: "AKS-Lab-10-tbertoux"
 
   NAMESPACE: "coolapi-namespace"
   MYDEPLOYMENT: "coolapi-deployment"
   NAMESERVICE: "coolapi-service"
   MYAPP: "cool-api"
-  MYACR: "acrlab0010"
+  MYACR: "acrlab0010tbertoux"
   MYIMAGE: "coolapi"
   MYVERSION: "1.0.0"
  
